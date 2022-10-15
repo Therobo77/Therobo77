@@ -1,5 +1,8 @@
 # Vikash Kumar Lal
+<img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
 
+
+### 😇 Show some love by starring⭐ some of my Repository
 
 [![](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
