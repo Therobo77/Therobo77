@@ -1,6 +1,6 @@
 # Vikash Kumar Lal
 
-/*profile viewer source!*/
+<!-- /*profile viewer source!*/ -->
 
 <img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
 
