@@ -24,7 +24,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
+https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg
+
+<img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" style="align items:center" />
 
 
 ### 😇 Show some love by starring⭐ some of my Repository
