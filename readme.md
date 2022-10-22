@@ -3,6 +3,7 @@
 <!-- /*profile viewer source!*/ -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 <img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
 
 
@@ -10,6 +11,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Therobo77&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=Therobo77&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🏆GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Therobo77&margin-w=15&margin-h=15&column=8" />
@@ -20,17 +23,23 @@
 
 
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true)]
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"  />
 
 <img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0"  />
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ### 😇 Show some love by starring⭐ some of my Repository
 
