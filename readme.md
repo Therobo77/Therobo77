@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 
-<img src="https://raw.githubusercontent.com/gopalkrushnas063/gopalkrushnas063/main/profile-3d-contrib/profile-night-green.svg" />
+<img src="https://raw.githubusercontent.com/Therobo77/Therobo77/main/profile-3d-contrib/profile-night-green.svg" />
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
