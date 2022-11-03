@@ -49,6 +49,8 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
+<!-- MY REAL #3d animation graph of commits -->
+
 <!-- 
 <img src="https://github.com/Therobo77/Therobo77/raw/main/profile-3d-contrib/profile-night-green.svg" />
  -->
