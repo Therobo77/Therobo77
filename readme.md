@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-<img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
+<img align=center src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
