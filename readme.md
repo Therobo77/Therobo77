@@ -36,7 +36,7 @@
 
 <table  align=center>
   <tr>
-  <td align=center> <img src="https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"  height=300   width=500 ></td>
+  <td align=center> <img src="https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"  height=300   width=500 /></td>
     
   <td align=center> <img src="[![](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)"  height=300   width=500 ></td>
   </tr>
