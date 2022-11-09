@@ -7,6 +7,25 @@
 
 <img src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## TECH STACK :
+
+<table  align=center>
+  <tr>
+ <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
+     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height=100   ></td>
+    <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"  height=100   width=150 ></td>
+     <td align=center> <img src="https://img.icons8.com/nolan/64/wikipedia.png"  height=100  ></td>
+  </tr><tr><td align=center>  <img src="https://img.icons8.com/color/48/null/chakra-ui.png"   width=100  ></td>
+   <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png"  height=100    ></td>
+  <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
+  <td align=center> <img src="https://img.icons8.com/plasticine/100/null/github.png"  height=100  ></td>
+  </tr>
+
+</table>
 
   
 [![](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
