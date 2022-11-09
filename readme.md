@@ -44,7 +44,7 @@
     <td align=center> <img src="http://github-readme-streak-stats.herokuapp.com?user=Therobo77&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D"  height=300   width=500 ></td>
     
   <td align=center> 
-    <img src="https://github-readme-stats.vercel.app/apiusername=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Therobo77&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Loading"height=300 width=500/>
     </td>
     
   </tr>
