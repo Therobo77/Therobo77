@@ -107,8 +107,7 @@ user-image (NAZMIN)
 ### ✍️Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<img align=center src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0"  />  
+--- 
 
 <!-- PROFILE VIEWS -->
 <!-- <img align=center src="https://visitcount.itsvg.in/api?id=Therobo77&icon=10&color=0" /> -->
