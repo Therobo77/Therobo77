@@ -20,7 +20,6 @@ user-image (NAZMIN)
 <img align=center src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" /> -->
 
 ## TECH STACK :
-
 <table  align=center>
   <tr>
  <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
