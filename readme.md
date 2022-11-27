@@ -103,8 +103,11 @@ user-image (NAZMIN)
 <!--  <img  src="https://camo.githubusercontent.com/fd4484b75dc1de15a3d240490e12618602537ce08af426f69859c8a52eb13ca9/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6d6568666f6f7a6b68616e67697468756226267468656d653d78636f6465" />  -->
 
 <div align="center">
+  
 ### ✍️Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Loading"/>
+  
   </div>
 
 --- 
