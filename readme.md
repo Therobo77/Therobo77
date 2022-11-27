@@ -129,7 +129,11 @@ user-image (NAZMIN)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/alok722/alok722/master/images/gif/Developer.gif " />
 
 ### 😇 Show some love by starring⭐ some of my Repository
+  
+  </div>
 
