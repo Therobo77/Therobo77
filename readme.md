@@ -71,9 +71,11 @@ user-image (NAZMIN)
    
    
    
-<!--    <td align=center>  
-    <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true"               width=500  height=300></td>
-    -->
+   <td align=center>  
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" -->
+         
+         width=500  height=300></td>
+   
   </tr>
 </table>
 
