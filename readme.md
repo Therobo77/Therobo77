@@ -51,7 +51,7 @@ user-image (NAZMIN)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
 
 
