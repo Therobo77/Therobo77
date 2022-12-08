@@ -1,4 +1,13 @@
 # Vikash Kumar Lal
+
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<h1 align="center">Hi 👋, I'm Vikash Kumar Lal</h1>
+
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
+<h2 align="center">A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
+
 <!-- /*profile viewer source!*/ -->
 
 
