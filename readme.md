@@ -21,6 +21,19 @@ comparison with suraj-996
 
 <!--  -->
 
+
+- 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mehfoozkhangithub?tab=repositories](https://github.com/mehfoozkhangithub?tab=repositories)
+
+- 💬 Ask me about **react / java script / redux**
+
+- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)**
+
+- 📫 How to reach me **mehfoozshaikh51@gmail.com**
+
+- ⚡ Fun fact **knowledge is a key**
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
@@ -29,6 +42,7 @@ user-image (NAZMIN)
 <img align=center src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" /> -->
 
 ## TECH STACK :
+
 <table  align=center>
   <tr>
  <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
