@@ -36,13 +36,13 @@ comparison with suraj-996
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehfoozkhangithub?tab=repositories](https://github.com/mehfoozkhangithub?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/mehfoozkhangithub?tab=repositories](https://github.com/Therobo77?tab=repositories)
 
 - 💬 Ask me about **react / java script / redux**
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)**
 
-- 📫 How to reach me **mehfoozshaikh51@gmail.com**
+- 📫 How to reach me **anshusinha8873@gmail.com**
 
 - ⚡ Fun fact **knowledge is a key**
 
