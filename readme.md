@@ -1,12 +1,7 @@
 # Vikash Kumar Lal
 
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Vikash Kumar Lal</h1>
+<!-- ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
 
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
-</div>
-<h2 align="center">A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
 
 <!-- /*profile viewer source!*/ -->
 
@@ -21,6 +16,14 @@ comparison with suraj-996
  <div height=100px >
 <img align=center height=400px width=100% src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" />
  </div>
+
+<h1 align="center">Hi 👋, I'm Vikash Kumar Lal</h1>
+
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
+
+<h2 align="center">A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
 
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
