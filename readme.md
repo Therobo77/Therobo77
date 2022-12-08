@@ -1,7 +1,6 @@
 # Vikash Kumar Lal
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- 
+
  
 
 <!-- ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
@@ -116,13 +115,14 @@ user-image (NAZMIN)
   </tr>
   <tr>
   <td align=center> 
-   ![Therobo77 stats](https://github-readme-stats.vercel.app/api?username=Therobo77&theme=dark&show_icons=true)
-<!--    <img src="https://camo.githubusercontent.com/491294d8860bf803756b2f7451e72904323f79faff57f553fbbb77d35e647195/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7375466937383637266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137"   width=500  height=300> -->
+  
+   <img src="https://camo.githubusercontent.com/491294d8860bf803756b2f7451e72904323f79faff57f553fbbb77d35e647195/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7375466937383637266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137"   width=500  height=300>
    </td>
    
    
    
    <td align=center>  
+     ![Therobo77 stats](https://github-readme-stats.vercel.app/api?username=Therobo77&theme=dark&show_icons=true)
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" -->
          
          width=500  height=300></td>
