@@ -144,7 +144,7 @@ user-image (NAZMIN)
 
 
 ## 🏆GitHub Trophies
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Therobo77&margin-w=15&margin-h=15&column=8" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=Therobo77&margin-w=15&margin-h=15&column=8" />
 
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
