@@ -121,12 +121,12 @@ user-image (NAZMIN)
    
    
    
-   <td align=center>  
+<!--    <td align=center>  
      ![Therobo77 stats](https://github-readme-stats.vercel.app/api?username=Therobo77&theme=dark&show_icons=true)
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" -->
          
          width=500  height=300></td>
-   
+    -->
   </tr>
 </table>
 
