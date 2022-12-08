@@ -40,7 +40,7 @@ comparison with suraj-996
 
 - 💬 Ask me about **react / java script / redux**
 
-- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)**
+- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1wyFZwCnJ-66v5QzVW64iw8A0B4UEMwQk/view?usp=sharing)**
 
 - 📫 How to reach me **anshusinha8873@gmail.com**
 
