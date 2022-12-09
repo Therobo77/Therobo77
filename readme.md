@@ -39,7 +39,7 @@ comparison with suraj-996
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehfoozkhangithub?tab=repositories](https://github.com/Therobo77?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Therobo77?tab=repositories](https://github.com/Therobo77?tab=repositories)
 
 - 💬 Ask me about **react / java script / redux**
 
