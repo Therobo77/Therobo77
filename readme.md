@@ -157,6 +157,8 @@ user-image (NAZMIN)
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true)
 <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" /> -->
 
+[![Therobo77 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Therobo77&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
 <!-- ## Language Graph -->
