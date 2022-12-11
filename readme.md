@@ -43,9 +43,9 @@ comparison with suraj-996
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1wyFZwCnJ-66v5QzVW64iw8A0B4UEMwQk/view?usp=sharing)**
 
-- 📫 How to reach me **anshusinha8873@gmail.com**
+- 📫 How to reach me[(📧)] **anshusinha8873@gmail.com**
 
-- ⚡ Fun fact: `**knowledge is a key**`
+- ⚡ Fun fact :- `**knowledge is a key**`
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
