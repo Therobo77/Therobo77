@@ -43,7 +43,7 @@ comparison with suraj-996
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1wyFZwCnJ-66v5QzVW64iw8A0B4UEMwQk/view?usp=sharing)**
 
-- 📫 How to reach me[(📧)] **anshusinha8873@gmail.com**
+- 📫 How to reach me[(📧)](anshusinha8873@gmail.com)
 
 - ⚡ Fun fact :- `**knowledge is a key**`
 
@@ -126,7 +126,7 @@ user-image (NAZMIN)
      ![Therobo77 stats](https://github-readme-stats.vercel.app/api?username=Therobo77&theme=dark&show_icons=true)
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Therobo77&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true" -->
          
-         <-- width=500  height=300></td> -->
+<!--          <-- width=500  height=300></td> --> -->
   </tr>
 </table>
 
