@@ -52,8 +52,8 @@ comparison with suraj-996
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
-<!-- 
-user-image (NAZMIN)
+
+<!-- user-image (NAZMIN)
 <img align=center src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" /> -->
 
 ## TECH STACK :
@@ -144,10 +144,11 @@ user-image (NAZMIN)
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
-
+<div align="center">
+ 
 ## 🏆GitHub Trophies
 
-<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Therobo77&margin-w=15&margin-h=15&column=8" />
 </div>
 
