@@ -57,7 +57,7 @@ comparison with suraj-996
 
 ## TECH STACK :
 
-<p align="center">
+<h1 align="center">
  
 <br/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
@@ -70,7 +70,7 @@ comparison with suraj-996
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <br/>
-</p>
+</h1>
 
 <!-- <table  align=center>
   <tr>
