@@ -5,8 +5,6 @@
 <!-- ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif) -->
 
 <!-- /*profile viewer source!*/ -->
-
-
 <!--
 comparison with suraj-996
  <img src="https://camo.githubusercontent.com/416e0ec787850a66ce0eced8c153a172eeab4341c294da1c9465e485866ebb0d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d737572616a2d393936267468656d653d746f6b796f6e6967687426626f726465725f7261646975733d3130" />
