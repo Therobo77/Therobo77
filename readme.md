@@ -43,7 +43,7 @@ comparison with suraj-996
 
 - 📫 How to reach me **(anshusinha8873@gmail.com)**
 
-- 📫 Reach out with me by  **[(Linked)](https://www.linkedin.com/in/vikashlal7722/)**
+- 📫 Reach out with me by  **[(LinkDin)](https://www.linkedin.com/in/vikashlal7722/)**
 
 - ⚡ Fun fact :- `**knowledge is a key**`
 
