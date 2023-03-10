@@ -1,6 +1,4 @@
 # Vikash Kumar Lal
-
-
 <!-- HELLO WORLD -->
 <!-- [important Image ];  -- "https://media.licdn.com/dms/image/C5622AQHzpGvOn0lIrg/feedshare-shrink_2048_1536/0/1672135803562?e=1675296000&v=beta&t=3gxRZ0bA3HvDtmlj1OvFXDfhINmzIK8cAK4SyJnWAeo" -->
 
