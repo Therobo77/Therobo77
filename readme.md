@@ -38,9 +38,9 @@ comparison with suraj-996
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Therobo77?tab=repositories)
 
-- 💬 Ask me about **react / java script / redux**
+- 💬 Ask me about **react / javascript / redux**
 
-- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1wyFZwCnJ-66v5QzVW64iw8A0B4UEMwQk/view?usp=sharing)**
+- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1yRPBEfvQFab01ZkuTZNrJ7RDIPDo-m6b/view?usp=sharing)**
 
 - 📫 How to reach me **(anshusinha8873@gmail.com)**
 
